@@ -1,1 +1,1 @@
-# 30-Days-JS-Challenge
+Welcome to the ultimate adventure of Chai and Code's 30 Days of JavaScript Challenge! Over the next 30 days, I'll be immersing myself in the world of JavaScript, taking on diverse challenges, and sharing my daily victories right here. From tackling intricate problems to uncovering hidden gems of the language, join me on this coding journey as I sip chai and dive deep into the art of JavaScript. Stay tuned for daily updates, insights, and a whole lot of code!
