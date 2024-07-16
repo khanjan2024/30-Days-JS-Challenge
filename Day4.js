@@ -40,7 +40,7 @@ let f=1;
 do{
   factorial *=f;
   f++;
-}while(i<=num);
+}while(f<=num);
     console.log(`The factorial of${num} is ${factorial}`);
 //Activity 4
 //Task 7
